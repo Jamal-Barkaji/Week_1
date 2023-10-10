@@ -1,3 +1,3 @@
-# Week_1
+# week_1
 **xyz**
 Hi, my name is Bob.
